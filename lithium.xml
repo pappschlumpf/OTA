@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <lithium>
+            <Filename>RR-N-v5.8.3-20170606-lithium-Nightly</Filename>
+            <RomUrl
+                id="rom"
+                title="Download Latest Build"
+                description="RR-N-v5.8.3-20170723-lithium-Weekly.zip">https://sourceforge.net/projects/resurrectionremix/files/lithium/Nougat/RR-N-v5.8.3-20170606-lithium-Nightly.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Latest OpenGapps">http://opengapps.org</OpenGappsUrl>
+		</lithium>
+	</Stable>
+</SlimOTA>
+
