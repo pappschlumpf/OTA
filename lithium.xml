@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <lithium>
-            <Filename>RR-N-v5.8.3-20170606-lithium-Nightly</Filename>
+            <Filename>RR-N-v5.8.4-20170811-lithium-Weekly</Filename>
             <RomUrl
                 id="rom"
                 title="Download Latest Build"
-                description="RR-N-v5.8.3-20170723-lithium-Weekly.zip">https://sourceforge.net/projects/resurrectionremix/files/lithium/Nougat/RR-N-v5.8.3-20170606-lithium-Nightly.zip/download</RomUrl>
+                description="RR-N-v5.8.4-20170811-lithium-Weekly.zip">https://sourceforge.net/projects/resurrectionremix/files/lithium/Nougat/RR-N-v5.8.3-20170606-lithium-Nightly.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
